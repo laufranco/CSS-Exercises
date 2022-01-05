@@ -14,7 +14,7 @@ The original was beautiful, but I wanted to redesign it with. I think it got bea
 
 ![](./images/my-redesign-normal-card.jpg)
 
-#### ✦  Original (from the Online Tutorial Youtube Channel)
+#### ✦  Original (from Frontend Mentor)
 ![](./images/original-card.jpg)
 
 
@@ -33,7 +33,7 @@ The original was beautiful, but I wanted to redesign it with. I think it got bea
 
 ### What I learned
 
-I am new to CSS - and this tutorial helped me to better understand layers and positioning elements .
+I am new to CSS - and this tutorial helped me to better understand layers and positioning elements.
 
 
 ### Useful resources

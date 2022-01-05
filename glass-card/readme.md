@@ -14,7 +14,7 @@ The original was beautiful, but I wanted to redesign it with glassmorphism and s
 
 ![](./images/my-redesign-glass-card.jpg)
 
-#### ✦  Original (from the Online Tutorial Youtube Channel)
+#### ✦  Original (from Frontend Mentor)
 ![](./images/original-card.jpg)
 
 
