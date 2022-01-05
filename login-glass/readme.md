@@ -21,7 +21,7 @@ I also added shadows on some items (Forgot passord and Sign Up) to improve reada
 
 
 ### Links
-- _My redesign, animated:_ [_Click here to see it moving!_](https://www.youtube.com/watch?v=mW0Z1T8l7sU)
+- _My redesign, animated:_ [_Click here to see it moving!_](https://laufranco.github.io/CSS-Exercises/login-glass/index.html) 
 
 - Original tutorial: [Online Tutorial Youtube Channel](https://www.youtube.com/watch?v=mW0Z1T8l7sU)
 
