@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+
+:root {
+    --blue-sapphire: hsla(198, 64%, 24%, 1)
+}
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+
+body, html{
+    font-family: 'Lora', sans-serif;
+    font-size: 18px;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.container{
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(45deg, rgba(254, 246, 210, 0.53) 0%, rgba(254, 246, 210, 0.53) 14.286%,rgba(221, 240, 216, 0.53) 14.286%, rgba(221, 240, 216, 0.53) 28.572%,rgba(188, 233, 223, 0.53) 28.572%, rgba(188, 233, 223, 0.53) 42.858%,rgba(156, 227, 229, 0.53) 42.858%, rgba(156, 227, 229, 0.53) 57.144%,rgba(123, 220, 235, 0.53) 57.144%, rgba(123, 220, 235, 0.53) 71.42999999999999%,rgba(90, 214, 242, 0.53) 71.43%, rgba(90, 214, 242, 0.53) 85.71600000000001%,rgba(57, 207, 248, 0.53) 85.716%, rgba(57, 207, 248, 0.53) 100.002%),linear-gradient(135deg, rgb(246, 99, 200) 0%, rgb(246, 99, 200) 12.5%,rgb(223, 98, 196) 12.5%, rgb(223, 98, 196) 25%,rgb(199, 97, 192) 25%, rgb(199, 97, 192) 37.5%,rgb(176, 96, 188) 37.5%, rgb(176, 96, 188) 50%,rgb(152, 95, 184) 50%, rgb(152, 95, 184) 62.5%,rgb(129, 94, 180) 62.5%, rgb(129, 94, 180) 75%,rgb(105, 93, 176) 75%, rgb(105, 93, 176) 87.5%,rgb(82, 92, 172) 87.5%, rgb(82, 92, 172) 100%);
+    
+}
+
+.bg-pattern-top{
+    position: absolute;
+    top:-80%;
+    right:50%;
+    z-index:9;
+}
+
+.bg-pattern-bottom{
+    position: absolute;
+    bottom:-80%;
+    left:50%;
+    z-index:9;
+}
+
+.card-container{
+    z-index:10;
+}
+
+.card{
+    width: 500px;
+    height: 375px;
+    background: linear-gradient(150.46deg, rgba(255, 255, 255, 0.5) -12.61%, rgba(255, 255, 255, 0.25) 110.1% ); */
+    padding: 20px;
+    border-radius: 15px;
+    opacity: 0.9;
+    box-shadow: 6px 10px 42px -21px rgba(0,0,0,0.75);
+
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: center;
+    position: relative;   
+}
+
+.card-profile{
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.person-profile {
+    display: flex;
+    align-items: baseline;
+}
+
+.img-profile {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+
+}
+
+.img-profile img {
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.5);
+
+
+}
+
+.name-profile {
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--blue-sapphire);
+}
+
+.number-info-profile {
+    text-transform: capitalize;
+    justify-content: center;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--blue-sapphire);
+}
+
+.city-profile {
+    font-size: 12px;
+    color: var(--grayish-blue);
+    margin-top: 5px;
+}
+
+.card-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-footer .info-profile {
+    display: flex;
+    padding: 1.4rem;
+    border-top: 1px solid #e9e9e9;
+    justify-content: space-around;
+}
+
+.item-info-profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.label-info-profile{
+    font-size: 11px;
+    font-family: 'Karla';
+    justify-content: center;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 3px;
+    color: var(--grayish-blue);
