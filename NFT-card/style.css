@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Outfit:wght@300;400;600&display=swap');
+
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root
+{
+    --soft-violet: hsl(215, 49%, 66%);
+    --violet: hsl(286, 95%, 74%);
+    --dark-violet-main: hsl(276, 53%, 7%);
+    --dark-violet-card: hsl(267, 49%, 18%);
+    --dark-violet-line: hsl(281, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+    --pale: rgba(255, 255, 255, 0.6);
+    --sand: rgba(255, 255, 255, 0.2);
+    --drop-shadow: rgba(100, 93, 100, 0.25);
+}
+
+body
+{
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    background-color: var(--dark-violet-main);
+    padding:1.2em; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    min-width: 232px;
+}
+
+.container
+{
+    background-color: var(--dark-violet-card);
+    padding: 1.2em;
+    border-radius: 15px;
+    filter: drop-shadow(0px 25px 50px rgba(65, 64, 64, 0.25));
+    
+}
+
+img
+{
+    max-width: 100%;
+    
+}
+
+.equilibrium-img
+{
+    border-radius: 15px;
+
+}
+
+.equilibrium-img:hover
+{ 
+    color: var(--violet);
+    cursor: pointer;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px colid var(--pale);
+}
+
+
+p
+{
+    font-weight: 300;
+    color: var(--pale)
+
+}
+
+
+.equilibrium
+{
+    color: var(--white);
+    padding: 1em 0;
+}
+
+
+.equilibrium:hover
+{
+    color: var(--violet);
+    cursor: pointer;
+
+}
+
+
+.paragraph
+{
+    padding: 1em 0 1em 0;
+}
+
+.ethereum
+{
+    color: var(--violet);
+    padding: 1.5em 0;
+    filter: drop-shadow(0px 25px 50px rgba(0, 0, 0, 0.25));
+
+}
+
+.ethereum-img
+{
+    color: var(--white);
+    filter: hue-rotate(86deg) brightness(80%) contrast(119%);
+}
+
+.clock
+{
+    color: var(--pale);
+    padding: 1em 0;
+}
+
+.day
+{
+    color: var(--white);
+    filter: hue-rotate(86deg) brightness(80%) contrast(119%);
+}
+
+.author
+{ 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1em 0 0 0;
+    border-top: 1px solid var(--sand);
+    
+}
+
+.avatar
+{
+    display: flex;
+    padding-top: 0.5em;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1.5em;
+    border-radius: 100% var(--pale);
+    
+    
+    
+}
+
+
+.avatar-text
+{
+    padding-left: 0.3em;
+    
+}
+
+
+span
+{
+    color: var(--white);
+}
+
+span:hover
+{
+    color: var(--violet);
+    cursor: pointer;
+}
+
+.author > p
+{
+    padding: 0 1em;
+}
