@@ -46,9 +46,9 @@ I am new to CSS - and this tutorial helped me to better understand the placement
 ## Author
 
 - Website - [Lau Franco](https://clojur.wordpress.com)
-- Twitter - [@onlydatasaves](https://twitter.com/onlydatasaves)
-- Linkedin - [Ouch!](https://twitter.com/onlydatasaves)
+- Twitter I never use - [@onlydatasaves](https://twitter.com/onlydatasaves)
+- Linkedin - [Ouch!](https://www.linkedin.com/in/laurianne-franco/)
 
 ## Acknowledgments
 
-Thanks for the Online Tutorial Youtube Channel for inspiration. The channel has severalI am new  CSS tutorials that are worth studying.
+Thanks for the Online Tutorial Youtube Channel for inspiration. 
