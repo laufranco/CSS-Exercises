@@ -43,9 +43,9 @@ I am new to CSS - and this tutorial helped me to figuring out how to change the 
 
 ## Author
 
-- Website - [Lau Franco](https://clojur.wordpress.com)
-- Twitter I never use - [@onlydatasaves](https://twitter.com/onlydatasaves)
-- Linkedin - [Ouch!](https://www.linkedin.com/in/laurianne-franco/)
+- Website - [Lau Franco](https://onlycodesaves.wordpress.com/)
+- Twitter I never use - [@only_code_saves](https://twitter.com/only_code_saves)
+- Linkedin - [Ouch!](https://www.linkedin.com/in/laurianne-franco-de-lima/)
 
 ## Acknowledgments
 
