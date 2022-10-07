@@ -35,6 +35,6 @@ _Work in progress._
 
 ## Author
 
-- Website - [Lau Franco](https://clojur.wordpress.com)
-- Twitter - [@onlydatasaves](https://twitter.com/onlydatasaves)
-- Linkedin - [Ouch!](https://twitter.com/onlydatasaves)
+- Website - [Lau Franco](https://onlycodesaves.wordpress.com/)
+- Twitter I never use - [@only_code_saves](https://twitter.com/only_code_saves)
+- Linkedin - [Ouch!](https://www.linkedin.com/in/laurianne-franco-de-lima/)
